@@ -1,6 +1,7 @@
 {
   "name": "egtraveladvisor",
   "version": "1.0.0",
+  "type": "module",
   "description": "eal# egtraveladvisor\r Trip matching",
   "main": "index.js",
   "scripts": {
