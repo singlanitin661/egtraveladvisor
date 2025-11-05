@@ -1,0 +1,23 @@
+{
+  "name": "egtraveladvisor",
+  "version": "1.0.0",
+  "description": "eal# egtraveladvisor\r Trip matching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singlanitin661/egtraveladvisor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singlanitin661/egtraveladvisor/issues"
+  },
+  "homepage": "https://github.com/singlanitin661/egtraveladvisor#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
